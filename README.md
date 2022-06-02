@@ -35,3 +35,23 @@ You will find some further documentation about the project here soon.
 
 ![grafik](https://user-images.githubusercontent.com/3304834/171633210-760f77f6-5f07-4dc5-8f45-16fb41d518b8.png)
 
+
+## Components
+
+### Audio Electronik Board
+
+![grafik](https://user-images.githubusercontent.com/3304834/171638121-e4d31153-e4f7-475d-a787-7b2c08bb13a2.png)
+
+### RFID Reader (PN532)
+
+![grafik](https://user-images.githubusercontent.com/3304834/171638422-f176b736-2c66-40b2-80c2-19245c2fb25c.png)
+
+### Speaker
+
+![grafik](https://user-images.githubusercontent.com/3304834/171638692-cd37b225-c546-4924-8c73-f1da43713071.png)
+
+### Laserable Box
+
+![grafik](https://user-images.githubusercontent.com/3304834/171637757-9fe8e25f-3134-4bc3-8bf0-0283129aabd1.png)
+
+
