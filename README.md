@@ -2,6 +2,8 @@
 
 ## Prototype
 
+Here are some photos and figures from the actual prototype.
+You will find some further documentation about the project here soon.
 
 
 ### Oraplayer-Boxed
