@@ -7,7 +7,7 @@
 
 https://user-images.githubusercontent.com/3304834/172383803-d0d4b2c0-2afc-42ef-b54a-96d7d64e2148.mp4
 
-🎶 music taken with kind approval from https://www.youtube.com/channel/UCAOmPP7Xt9YmPYtjettV3oA ♥️
+🎶 music taken with the kind approval from https://www.youtube.com/channel/UCAOmPP7Xt9YmPYtjettV3oA ♥️
 
 ## Prototype
 
