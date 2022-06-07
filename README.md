@@ -60,7 +60,7 @@ You will find some further documentation about the project here soon.
 
 ### Figure components
 
-![Uploading IMG_20220606_173714.jpg…]()
+![IMG_20220606_173714](https://user-images.githubusercontent.com/3304834/172488378-fc63fd89-03e6-424b-b614-68b136d3c17f.jpg)
 
 
 ### Audio Electronik Board
