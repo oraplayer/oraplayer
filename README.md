@@ -39,7 +39,6 @@ You will find some further documentation about the project here soon.
 
 ![grafik](https://user-images.githubusercontent.com/3304834/171637147-7d628f70-461d-4541-88f4-601448054f88.png)
 
-![IMG_20220606_161923](https://user-images.githubusercontent.com/3304834/172487861-84986146-96bf-4be9-b7f7-89a924a266a9.jpg)
 
 
 ### Modeled (Blender)
